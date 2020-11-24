@@ -25,7 +25,7 @@
   "dependencies": {
     "debug": "3.1.0",
     "mustache": "^2.2.1",
-    "request": "2.88.0",
+    "request": "https://github.com/worldline/request/archive/master.tar.gz",
     "request-promise-native": "1.0.7",
     "tv4": "^1.2.7"
   },
